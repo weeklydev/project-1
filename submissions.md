@@ -7,3 +7,8 @@
 ### Orange Bees
 - **Repository:** https://github.com/kennethk91/To-Do-List
 - **Thumbnail:** https://github.com/kennethk91/To-Do-List/blob/master/preview.png
+
+### Green Bees
+- **Repository:** https://github.com/green-bees/todo-list
+- **Thumbnail:** https://raw.githubusercontent.com/green-bees/todo-list/master/screenshots/home.png
+- **Heroku Demo:** https://green-bees-todo.herokuapp.com/
