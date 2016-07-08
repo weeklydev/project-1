@@ -15,4 +15,4 @@
 
 ### Orange Cobras
 - **Repository:** https://github.com/englebt/ToDiddlyDo
-- **Thumbnail:** http://i.imgur.com/zEuOZc3.png
+- **Thumbnail:** http://i.imgur.com/ENy3sY4.png
