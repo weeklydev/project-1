@@ -25,5 +25,7 @@
 - **Repository:** https://github.com/Probotect0r/Todo-List
 - **Thumbnail:** http://i.imgur.com/EwV8FT4.png
 
-### Blue Giraffe
+### Blue Giraffes
 - **Repository:** https://github.com/mchung0218/giraffe-blue-todo-list
+- **Thumbnail:** http://i.imgur.com/W47SCRX.png
+- **Heroku Demo:** https://bluegiraffe-todolist.herokuapp.com/
