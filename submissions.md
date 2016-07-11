@@ -24,3 +24,6 @@
 ### Blue Bees
 - **Repository:** https://github.com/Probotect0r/Todo-List
 - **Thumbnail:** http://i.imgur.com/EwV8FT4.png
+
+### Blue Giraffe
+- **Repository:** https://github.com/mchung0218/giraffe-blue-todo-list
