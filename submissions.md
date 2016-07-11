@@ -16,3 +16,7 @@
 ### Orange Cobras
 - **Repository:** https://github.com/englebt/ToDiddlyDo
 - **Thumbnail:** http://i.imgur.com/ENy3sY4.png
+
+### Red Cobras
+- **Repository:** https://github.com/TastyMantou/team-cobras-red
+- **Thumbnail:** https://imgur.com/qfpUJp0/
