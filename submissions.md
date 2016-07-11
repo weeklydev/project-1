@@ -20,6 +20,7 @@
 ### Red Cobras
 - **Repository:** https://github.com/TastyMantou/team-cobras-red
 - **Thumbnail:** https://imgur.com/qfpUJp0/
+- **Heroku Demo:** http://team-cobras-red-weekly-1.herokuapp.com/
 
 ### Blue Bees
 - **Repository:** https://github.com/Probotect0r/Todo-List
