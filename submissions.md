@@ -30,3 +30,8 @@
 - **Repository:** https://github.com/mchung0218/giraffe-blue-todo-list
 - **Thumbnail:** http://i.imgur.com/W47SCRX.png
 - **Heroku Demo:** https://bluegiraffe-todolist.herokuapp.com/
+
+### Blue Eagles
+- **Repository:** https://github.com/brianhoy/team-eagles-blue-todo
+- **Thumbnail:** http://i.imgur.com/pWDtAh2.png
+- **Heroku Demo:** http://blue-eagles-todo.herokuapp.com/
