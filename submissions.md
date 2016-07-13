@@ -35,3 +35,7 @@
 - **Repository:** https://github.com/brianhoy/team-eagles-blue-todo
 - **Thumbnail:** http://i.imgur.com/pWDtAh2.png
 - **Heroku Demo:** http://blue-eagles-todo.herokuapp.com/
+
+### Green Foxes
+- **Repository:** https://github.com/johngarcia9110/green-foxes-todo
+- **Thumbnail:** http://weeklydev.io/wp-content/uploads/2016/06/green-fox.png
