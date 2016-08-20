@@ -39,3 +39,7 @@
 ### Green Foxes
 - **Repository:** https://github.com/johngarcia9110/green-foxes-todo
 - **Thumbnail:** http://weeklydev.io/wp-content/uploads/2016/06/green-fox.png
+- 
+### Yellow Jaguars
+-- **Repository:** https://github.com/weeklydev-yellowjaguars/todo-list
+-- **Thumbnail:** https://raw.githubusercontent.com/weeklydev-yellowjaguars/todo-list/master/screenshot.png
